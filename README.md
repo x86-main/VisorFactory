@@ -22,4 +22,5 @@ Stay tuned for more to come!
 
 
 Visor(base nft template) [0x08fb62c84909da3aa5f59e01763e5fdc62de76e9 ](https://etherscan.io/address/0x08fb62c84909da3aa5f59e01763e5fdc62de76e9)
+
 VisorFactory [0xaE03233307865623Aaef76Da9ADe669b86e6F20A](https://etherscan.io/address/0xaE03233307865623Aaef76Da9ADe669b86e6F20A)
