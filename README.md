@@ -2,7 +2,7 @@
 
 Introducing Visor NFT vault. 
 
-- Visor is living Smart Vault platform, built as a compatibility layer within the emerging DeFi ecosystem and integrating the UniversalVault standard being developed by the [Alchemist](alchemist.wtf) project.
+- Visor is a living Smart Vault platform, built as a compatibility layer within the emerging DeFi ecosystem and integrating the UniversalVault standard being developed by the [Alchemist](alchemist.wtf) project.
 
 - Visor's factory allows for community governance of updates and extensions to the VisorNFT without breaking compatilibilty across rewards platforms.
 
